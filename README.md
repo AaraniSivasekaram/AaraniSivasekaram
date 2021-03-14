@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AaraniSivasekaram
+- 👀 I’m interested in health systems data
+- 🌱 I’m currently learning data tools using different coding languages, such as VBA, Python and JavaScript
+- 💞️ I’m looking to collaborate on web pages that share up-to-date public health data and interactive health data tools
+- 📫 How to reach me: aarani.sivasekaram@gmail.com
