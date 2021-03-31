@@ -2,4 +2,4 @@
 - 👀 I’m interested in health data infrastructures and data tools I can use within the public health sector
 - 🌱 I’m currently learning to use different data tools within different coding languages, such as VBA, Python and JavaScript
 - 💞️ I’m looking to collaborate on web pages that share up-to-date public health data and interactive health data tools
-- 📫 How to reach me: aarani.sivasekaram@gmail.com
+- 📫 How to reach me: aarani.sivasekaram@gmail.com; https://www.linkedin.com/in/aarani-sivasekaram
